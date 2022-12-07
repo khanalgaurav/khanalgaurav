@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanalgaurav
 - 👀 I’m interested in ...nothing for now
-- 🌱 I’m currently learning ... nothing for now
-- 💞️ I’m looking to collaborate on ... nothing for now
+- 🌱 I’m currently learning ... hehe
+- 💞️ I’m looking to collaborate on ... valorant with tenz
 - 📫 How to reach me ... no idea
 
 <!---
