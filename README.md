@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khanalgaurav
 - 👀 I’m interested in ...nothing for now
 - 🌱 I’m currently learning ... hehe
-- 💞️ I’m looking to collaborate on ... valorant with tenz
-- 📫 How to reach me ... no idea
+- 💞️ I’m looking to collaborate on ... adult industry like web development
+- 📫 How to reach me ... just take a taxi to kapan
 
 <!---
 khanalgaurav/khanalgaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
