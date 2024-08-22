@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khanalgaurav
-- 👀 I’m interested in ...nothing for now
-- 🌱 I’m currently learning ... hehe
-- 💞️ I’m looking to collaborate on ... adult industry like web development
-- 📫 How to reach me ... just take a taxi
+- 👀 I’m interested in ...Web development
+- 🌱 I’m currently learning ... Frontend Development
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
 
 <!---
 khanalgaurav/khanalgaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
