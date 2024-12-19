@@ -1,7 +1,7 @@
 **Gaurav Khanal**  
 **Web Developer**  
 Kathmandu, Nepal | **khanalgaurav0@gmail.com** | **+977 9869666311**  
-[GitHub](https://github.com/khanalgaurav) | [LinkedIn](Add your LinkedIn URL)
+[GitHub](https://github.com/khanalgaurav) | [LinkedIn](https://www.linkedin.com/in/gaurav-khanal-a75733169/)
 
 ---
 
